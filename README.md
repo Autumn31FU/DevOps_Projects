@@ -21,7 +21,7 @@ This markdown contains screenshots of the Tech environment setup for Darey.io De
 
 
 - ### Virtual Box
- ![Virtual-Box](Img/04_Virtual-Box.png)
+ ![Virtual-Box](Img/04_Virtualbox.png)
 
 
 
