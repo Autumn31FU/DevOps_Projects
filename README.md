@@ -4,34 +4,34 @@ This markdown contains screenshots of the Tech environment setup for Darey.io De
 
 - ### Visual Studio Code (VScode)
 
-![Vscode](img/01_Vscode.png)
+![Vscode](Img/01_Vscode.png)
 
 
 
 - ### Git
- ![Gitbash](img/02_Gitbash.png)
+ ![Gitbash](Img/02_Gitbash.png)
 
 
 
 
 - ### Github
- ![Github](img/03_Github.png)
+ ![Github](Img/03_Github.png)
 
 
 
 
 - ### Virtual Box
- ![Virtual-Box](img/04_Virtual-Box.png)
+ ![Virtual-Box](Img/04_Virtual-Box.png)
 
 
 
 
 - ### Ubuntu
- ![Ubuntu](img/05_Ubuntu.png)
+ ![Ubuntu](Img/05_Ubuntu.png)
 
 
 
 
 - ### Amazon Web Services (AWS)
- ![AWS](img/06_AWS.png)
+ ![AWS](Img/06_AWS.png)
 
