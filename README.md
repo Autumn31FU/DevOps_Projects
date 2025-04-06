@@ -2,6 +2,10 @@
 This markdown contains screenshots of the Tech environment setup for Darey.io DevOps course
 
 
+
+
+
+
 - ### Visual Studio Code (VScode)
 
 ![Vscode](Img/01_Vscode.png)
