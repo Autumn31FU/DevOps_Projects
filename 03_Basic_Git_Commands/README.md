@@ -184,4 +184,4 @@ Committed jerry's changes with **git commmit**
 
 Pushed jerry's changes with **git pull**
 
-![Git](Img/git_pushf.png)
+![Git](Img/git_pushF.png)
