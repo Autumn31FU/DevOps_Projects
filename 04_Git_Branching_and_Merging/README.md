@@ -1,12 +1,12 @@
 # Git Branching and Merging
 
-This project simulates the merging of branches created by Tom and Jerry into the main branch
+This project simulates the merging of branches created by Tom and Jerry in Git
 
-### Navigating into main branch 
+### Navigate into main branch 
 ![main-repo](Img/main_repo.png)
 
 
-### Switch branch 
+### Switch branch into Tom's branch *update-navigation*
 ![main-repo](Img/unav_b.png)
 
 
@@ -24,9 +24,9 @@ This project simulates the merging of branches created by Tom and Jerry into the
 <br>
 
 
-# Part 2: Updating jerry
+# Part 2: Updating jerry's branch
 
-### switch to jerry branch on terminal 
+### Switch to jerry's branch *add-contact-info* on terminal 
 ![main-repo](Img/addcb_t.png)
 
 
@@ -34,7 +34,7 @@ This project simulates the merging of branches created by Tom and Jerry into the
 ![main-repo](Img/adp_t.png)
 
 
-### create Pull request
+### Create Pull request
 ![main-repo](Img/addc_pr.png)
 
 
@@ -42,9 +42,9 @@ This project simulates the merging of branches created by Tom and Jerry into the
 ![main-repo](Img/addc_mr.png)
 
 
-### Merged 
-![main-repo](Img/addc_merged)
+### Merge
+![main-repo](Img/addc_merged.png)
 
 
-### Push changes 
-![main-repo](Img/addcb_t.png)
+### Confirm Pull request in the main repository 
+![main-repo](Img/main_r.png)
