@@ -116,13 +116,13 @@ To confirm the path use the `pwd`
 ### 1. Create a directory called `photos` directory
 Use the command `mkdir`
 
-![Creating photos directory](img/mkdirp.png)
+![Creating photos directory](Img/mkdirp.png)
 
 ### 2. Navigate into the `photos` directory
 
 Use the command `cd`
 
-![photos directory](img/cdp.png)
+![photos directory](Img/cdp.png)
 
 ### 3. Create three more random directories inside the  `photos` directory
 Create three more directories `camera` `whatsapp` `snapchat`
@@ -210,7 +210,7 @@ To rename a file with the `mv` command
 
 The `rm` command is used to delete files within a directory.
 
-**Caution:** it deletes files completely. So must be used with care.
+**Caution:** It deletes files completely. So must be used with care.
 
 
 To remove a single file:
@@ -219,7 +219,7 @@ rm filename
 ```
 <br>
 
-![rm command](img/rmf.png)
+![rm command](Img/rmf.png)
 
 To remove multiple files:
 ```
@@ -227,7 +227,7 @@ rm filename1 filename2
 ```
 <br>
 
-![rm multiple files command](img/rmmf.png)
+![rm multiple files command](Img/rmmf.png)
 
 Here are some acceptable options one can add:
 ```
@@ -241,7 +241,7 @@ Here are some acceptable options one can add:
 
 The touch command allows to create an empty file or files.
 
-![touch command](img/touchf.png)
+![touch command](Img/touchf.png)
 
 ## find command
 
@@ -250,4 +250,4 @@ The find command is used to search for files within a specific directory and per
 find [option] [path] [expression]
 
 ```
-![find command](img/find.png)
+![find command](Img/find.png)
